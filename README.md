@@ -22,7 +22,7 @@ A lightweight macOS status bar app that helps you view and control Linux contain
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/mount-grabber/container-bar.git
+   git clone https://github.com/mountgrabber/container-bar.git
    cd container-bar
    ```
 
