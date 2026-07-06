@@ -8,7 +8,7 @@ A lightweight macOS status bar app that helps you view and control Linux contain
 - Apple silicon (arm64)
 - Xcode 15 or later
 - Apple’s container CLI installed at `/usr/local/bin/container`
-  - You can obtain the signed installer from the official GitHub releases of the container project.
+  - You can obtain the signed installer from the official GitHub releases of the [container][https://github.com/apple/container] project.
 
 ## Features
 
